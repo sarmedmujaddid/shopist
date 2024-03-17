@@ -6,9 +6,6 @@ Brief description of your project.
 
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technology Stack
 
