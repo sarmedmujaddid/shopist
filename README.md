@@ -29,16 +29,4 @@ Brief description of your project.
 2. Open the project in Visual Studio.
 3. Restore NuGet packages if needed.
 
-## Usage
-
-Provide brief instructions on how to use your project. Include any necessary setup steps, configuration, or environment variables.
-
-### Examples
-
-#### Profile Page Update
-
-```csharp
-ProfilePage profilePage = new ProfilePage(getDriver());
-profilePage.updateProfile("Prenzlauer Promenade 182", "Second Floor, Left side", "Berlin", "AL", "13189");
-
 
